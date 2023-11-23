@@ -10,6 +10,7 @@
 - 5 rupees: manish :( 5 rupees: rohit :(
 - total 10 :)
 - done by manish
+- done by Abhay (23/11/2023 7:39PM)
 
 
 ```
@@ -17,4 +18,7 @@
    Link :: https://leetcode.com/problems/remove-linked-list-elements/
 ```
 
-- done by ::::: Abhayjit Singh The GOAT 💪.
+---------------------------------
+- Abhay and Ekansh Join the Team
+---------------------------------
+- Done by Abhay (23/11/2023 7:22PM)
