@@ -22,8 +22,12 @@ Took a lot of retries..  good luck!!
 
 Ekansh's Code:
 
-Step 0: variable 'head'
-Step 1: Pointer 'current' pointing to 'head'
+Step 0: variable 'head' represents ListNode
+Step 1: Pointer 'current' pointing to 'head'.
+Step 2: Check for next element of list whether it exist or not.
+Step 3: If yes then check if its value is equal to the current element. 
+        If true, skip the next element and move forward by(current.next = current.next.next) 
+Step 4: If false, traverse normally(current = current.next)
 
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
