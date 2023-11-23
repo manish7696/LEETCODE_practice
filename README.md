@@ -17,4 +17,4 @@
    Link :: https://leetcode.com/problems/remove-linked-list-elements/
 ```
 
-- done by ::::: [add name if solved]
+- done by ::::: Abhayjit Singh The GOAT 💪.
