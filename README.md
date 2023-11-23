@@ -9,7 +9,7 @@
 ```
 - 5 rupees: manish :( 5 rupees: rohit :(
 - total 10 :)
-- done by manish
+- done by Manish
 - done by Abhay (23/11/2023 7:39PM)
 - Done by Ekansh
 
@@ -25,4 +25,5 @@
 ---------------------------------
 - Done by Abhay (23/11/2023 7:22PM)
 - Done by Ekansh
+- Done by Manish
 
