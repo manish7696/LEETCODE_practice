@@ -36,48 +36,49 @@ Step 1: Traverse the list and find the middle of the list.
 Step 2: Reverse the list by using the reverse function created
 Step 3: Compare the 2 lists. If value matches- true, if not- false
 
-class Solution {
-    public boolean isPalindrome(ListNode head) {
-        //if list is empty, already palindrome
-        if (head == null || head.next == null){
-            return true;
-        }
-        //finding the middle of list
-        //when slow will reach middle element, fast will reach last element
-        ListNode slow = head, fast = head;
-        while (fast.next != null && fast.next.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        //reverse the list after the middle element
-        slow.next = reverseList(slow.next);
+    class Solution {
+        public boolean isPalindrome(ListNode head) {
+          //if list is empty, already palindrome
+          if (head == null || head.next == null){
+              return true;
+          }
+          //finding the middle of list
+          //when slow will reach middle element, fast will reach last element
+          ListNode slow = head, fast = head;
+          while (fast.next != null && fast.next.next != null){
+              slow = slow.next;
+              fast = fast.next.next;
+          }
+          //reverse the list after the middle element
+          slow.next = reverseList(slow.next);
 
-        //check for palindrome by comparing original and reversed list
-        ListNode first = head;
-        ListNode second = slow.next;
-        while (second != null) {
-            //if at any point values dont match, print false
-            if (first.val != second.val) {
-                return false;
-            }
-            first = first.next;
-            second = second.next;
-        }
+          //check for palindrome by comparing original and reversed list
+          ListNode first = head;
+          ListNode second = slow.next;
+          while (second != null) {
+              //if at any point values dont match, print false
+              if (first.val != second.val) {
+                  return false;
+              }
+              first = first.next;
+              second = second.next;
+          }
+  
+          //print true
+          return true;
+      }
 
-        //print true
-        return true;
+      //defining a function to reverse the list
+      public ListNode reverseList(ListNode head){
+          ListNode prev = null;
+          ListNode current = head;
+      while (current != null) {
+          ListNode next = current.next;
+          current.next = prev;
+          prev = current;
+          current = next;
+      }
+      return prev;
+      }
     }
-
-    //defining a function to reverse the list
-    public ListNode reverseList(ListNode head){
-        ListNode prev = null;
-        ListNode current = head;
-    while (current != null) {
-        ListNode next = current.next;
-        current.next = prev;
-        prev = current;
-        current = next;
-    }
-    return prev;
-    }
-}
+  
