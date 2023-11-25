@@ -28,3 +28,9 @@
 - Done by Manish
 - Done by Rohit 
 
+
+```
+3) Leetcode problem 705:: Design Hashset (actually a linked list question)
+   Link :: https://leetcode.com/problems/design-hashset/
+```
+Done by :::::::::
