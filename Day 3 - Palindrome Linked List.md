@@ -37,8 +37,8 @@ Ekansh's Code:
 
 Step 1: Traverse the list and find the middle of the list.
 
-
 Step 2: Reverse the list by using the reverse function created. 
+
 Step 3: Compare the 2 lists. If value matches- true, if not- false.
 
     class Solution {
