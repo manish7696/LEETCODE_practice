@@ -88,3 +88,9 @@ Step 3: Compare the 2 lists. If value matches- true, if not- false.
       }
     }
   
+## manish approach (time limit exceeded)
+
+- read the linked list in reverse using recursion(rather than actually
+reversing it)
+- find correspinding element from from and compare them.( slow for large lists)
+- pass the result recursively as bool.
