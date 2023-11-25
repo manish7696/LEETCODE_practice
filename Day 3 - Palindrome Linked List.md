@@ -32,9 +32,9 @@ P.S. Working on other method
         return True
   ``
 # Ekansh's Approach
-Step 1: Traverse the list and find the middle of the list. Step 2: Reverse the list by using the reverse function created. Step 3: Compare the 2 lists. If value matches- true, if not- false.
-
-
+Step 1: Traverse the list and find the middle of the list. 
+Step 2: Reverse the list by using the reverse function created. 
+Step 3: Compare the 2 lists. If value matches- true, if not- false.
 
     class Solution {
         public boolean isPalindrome(ListNode head) {
