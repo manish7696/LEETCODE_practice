@@ -1,4 +1,4 @@
-## Rohit's !st approach
+## Rohit's 1st approach
 - Store the values of list in a vector
 - Reverse the list
 - Store the reverse list value in a new vector
