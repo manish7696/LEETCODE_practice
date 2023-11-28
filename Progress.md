@@ -47,3 +47,4 @@
    Link :: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 ```
 - Done by Abhay (Ezzz)
+- Done by Manish (idea easy but not easy to implement, took a lot of print statements :| )
