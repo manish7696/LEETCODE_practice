@@ -39,3 +39,10 @@
 - Nahh never mind TLE for me today gn :(
 - Rs 5 fine for manish
 - total = 15
+
+
+```
+4) Leetcode problem 2130 :: Maximum Twin Sum of a Linked List
+   Link :: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+```
+- Done by ::::
