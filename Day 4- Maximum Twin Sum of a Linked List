@@ -1,0 +1,6 @@
+## Abhay's Approach
+
+- Create an array and store all values of linked list in the array
+- Create reverse of the array
+- Compare both arrays and find sum of individual elements at same position
+- compare the sums to find maximum sum
