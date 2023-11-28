@@ -65,3 +65,44 @@ class Solution(object):
             
         return max
 ```
+
+
+##Ekansh's Approach
+    
+    class Solution {
+    public int pairSum(ListNode head) {
+        
+        int ans = 0;
+        //finding the middle of list
+        //when slow will reach middle element, fast will reach last element
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        //reverse the list after the middle element
+        ListNode tail = reverseList(slow);
+
+        //check for max twin sum
+        while (tail != null) {
+            ans = Math.max(ans, head.val + tail.val);
+            head = head.next;
+            tail = tail.next;
+        }
+
+        //print ans
+        return ans;
+    }
+
+    //defining a function to reverse the list
+    public ListNode reverseList(ListNode head){
+        ListNode prev = null;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
+    }
+}
