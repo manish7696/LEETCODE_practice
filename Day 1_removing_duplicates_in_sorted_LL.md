@@ -12,8 +12,8 @@ There are three cases to consider here:
     if True then shift both previous and current to right by one node
 
 ### one case which is automatically handled here is that:
-    previous and current are at the end of the list and they are not equal. Here in this code they both get shifted to the right 
-      by one node which makes current None so that next iteration of while loop stops.
+previous and current are at the end of the list and they are not equal. Here in this code they both get shifted to the right 
+by one node which makes current None so that next iteration of while loop stops.
 
 
 Took a lot of retries..  good luck!!
