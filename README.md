@@ -46,4 +46,4 @@
 4) Leetcode problem 2130 :: Maximum Twin Sum of a Linked List
    Link :: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 ```
-- Done by ::::
+- Done by Abhay (Ezzz)
