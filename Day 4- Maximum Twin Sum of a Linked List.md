@@ -65,6 +65,7 @@ class Solution(object):
             
         return max
 ```
+}
 
 
 ##Ekansh's Approach
@@ -105,4 +106,4 @@ class Solution(object):
         }
         return prev;
     }
-}
+
