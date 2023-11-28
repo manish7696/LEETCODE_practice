@@ -49,5 +49,5 @@
 - Done by Abhay (Ezzz)
 - Done by Manish (idea easy but not easy to implement, took a lot of print statements :| )
 - Done by Rohit
-- Rs 5 fine for Ekansh
-- total = 20
+- Done by Ekansh (1:42 AM)
+- total = 15
