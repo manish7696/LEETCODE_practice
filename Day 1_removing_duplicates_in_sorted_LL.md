@@ -22,7 +22,7 @@ Took a lot of retries..  good luck!!
 
 
 
-Ekansh's Code:
+## Ekansh's Code:
 
 Step 0: variable 'head' represents ListNode
 Step 1: Pointer 'current' pointing to 'head'.
@@ -31,6 +31,7 @@ Step 3: If yes then check if its value is equal to the current element.
         If true, skip the next element and move forward by(current.next = current.next.next) 
 Step 4: If false, traverse normally(current = current.next)
 
+```
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode current=head;
@@ -44,11 +45,12 @@ class Solution {
         return head;
     }
 }
-
+```
 --------------------------------------------------------------------------------------------------
 
-Abhay's Code
+## Abhay's Code
 
+```
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, val=0, next=None):
@@ -70,5 +72,5 @@ class Solution(object):
                 else:
                     curr = curr.next
         return head
-
+```
 -------------------------------------------------------------------------------------------------------
