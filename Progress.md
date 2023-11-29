@@ -51,3 +51,9 @@
 - Done by Rohit
 - Done by Ekansh (1:42 AM)
 - total = 15
+
+```
+5) Leetcode problem 61 :: Rotate linked list
+    https://leetcode.com/problems/rotate-list/
+```
+- complete in upcoming 2 days|||
