@@ -1,0 +1,7 @@
+## manish's approach
+
+-- find the list's lenght
+-- make the list circular
+-- move k % lenght steps( name is end) ahead and make its nest to be new head
+-- finally make end.next = None
+
