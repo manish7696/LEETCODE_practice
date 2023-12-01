@@ -59,3 +59,15 @@
 - Done by Manish
 - Done by Abhay (with Manish's help :D)
 - Done by Rohit
+
+
+------------------------------------------------------------------
+### Milestone 1 completed: Completed Linked List 
+Congratulations for making it this far.
+------------------------------------------------------------------
+
+  ```
+  6) Leetcode problem 94 :: Binary Tree Inorder Traversal
+      https://leetcode.com/problems/binary-tree-inorder-traversal/
+ ```
+(for tomorrow)
