@@ -5,3 +5,6 @@
 -- move k % lenght steps( name is end) ahead and make its nest to be new head
 -- finally make end.next = None
 
+## Abhay's Approach
+
+-- Same as Manish (it was my Idea but he implemented it better)
