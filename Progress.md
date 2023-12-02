@@ -1,4 +1,4 @@
-# LEETCODE_practice
+ni# LEETCODE_practice
 
  
 
@@ -59,7 +59,8 @@
 - Done by Manish
 - Done by Abhay (with Manish's help :D)
 - Done by Rohit
-
+- fine rs 5 for ekansh
+- total = 20
 
 ------------------------------------------------------------------
 ### Milestone 1 completed: Completed Linked List 
