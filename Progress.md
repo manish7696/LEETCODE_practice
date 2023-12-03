@@ -76,3 +76,8 @@ Congratulations for making it this far.
 - Fine : Abhay, Ekansh
 - Total = 30
   
+```
+7) Leetcode problem 112 :: Path sum
+    https://leetcode.com/problems/path-sum/
+```
+- Done by ::
