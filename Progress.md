@@ -73,4 +73,6 @@ Congratulations for making it this far.
  ```
 - Done by Rohit
 - Done by Manish
+- Fine : Abhay, Ekansh
+- Total = 30
   
