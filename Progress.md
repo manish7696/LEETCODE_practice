@@ -80,4 +80,5 @@ Congratulations for making it this far.
 7) Leetcode problem 112 :: Path sum
     https://leetcode.com/problems/path-sum/
 ```
-- Done by ::
+- Done by Abhay
+- Done by Manish
