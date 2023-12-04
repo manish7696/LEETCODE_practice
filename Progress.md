@@ -85,3 +85,9 @@ Congratulations for making it this far.
 - Done by Rohit
 - Fine : Ekansh
 - Total : 35
+
+```
+8) Leetcode problem 993 :: Cousins in Binary tree
+   https://leetcode.com/problems/cousins-in-binary-tree/
+```
+- Done by 
