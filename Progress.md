@@ -1,4 +1,4 @@
-ni# LEETCODE_practice
+# LEETCODE_practice
 
  
 
@@ -92,5 +92,5 @@ Congratulations for making it this far.
 ```
 - Done by Rohit
 - Done by Abhay (Rohit's Approach)
-- Fine : Manish, Ekansh
-- Total : 45
+- Fine : Manish, Ekansh, Abhay
+- Total : 50
