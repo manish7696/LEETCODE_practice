@@ -99,3 +99,9 @@ Congratulations for making it this far.
 9) Leetcode problem 2385 :: Amount of Time for Binary Tree to Be Infected
    https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 ```
+Updated question
+```
+9) Leetcode problem 1008 :: Construct Binary Search Tree from Preorder Traversal
+   https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+```
+- Done by 
