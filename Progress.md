@@ -94,3 +94,8 @@ Congratulations for making it this far.
 - Done by Abhay (Rohit's Approach)
 - Fine : Manish, Ekansh, Abhay
 - Total : 50
+
+```
+9) Leetcode problem 2385 :: Amount of Time for Binary Tree to Be Infected
+   https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+```
