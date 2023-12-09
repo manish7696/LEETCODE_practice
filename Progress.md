@@ -107,7 +107,7 @@ Updated question
 - Done by Manish
 
 ```
-10) Leetcode problem 515 :: Find largest in each row
+10) Leetcode problem 515 :: Find largest in each tree row
     https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 ```
 - Done by 
