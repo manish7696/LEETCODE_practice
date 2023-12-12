@@ -115,4 +115,12 @@ Updated question
 ```
 - Done by Abhay with help of ChatGPT :(
 
+-----------------------------------------------------------------------------------------
+binary tree closed today,
+array starts
+-----------------------------------------------------------------------------------------
 
+```
+11) Leetcode problem 118 :: Pascal's Triangle
+    https://leetcode.com/problems/pascals-triangle/
+```
