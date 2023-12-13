@@ -125,9 +125,10 @@ array starts
     https://leetcode.com/problems/pascals-triangle/
 ```
 - Done by Manish
+- Done by Abhay Next day (Practical Files bna rha hu 😢, pls fine mtt lgana)
 
 ```
 12) Leetcode problem 666. Plus One
     https://leetcode.com/problems/plus-one/
 ```
-Done by 
+Done by Abhay (Pehle Leet Code fir Industrial File 💪)
