@@ -114,6 +114,8 @@ Updated question
     https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 ```
 - Done by Abhay with help of ChatGPT :(
+- Fine: Rohit, Manish
+- Total: 65 💵
 
 -----------------------------------------------------------------------------------------
 binary tree closed today,
