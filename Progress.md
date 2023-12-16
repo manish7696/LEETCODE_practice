@@ -142,4 +142,10 @@ array starts
 14) Leetcode problem 34 :: Find First and Last Position of Element in Sorted Array
     https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ```
-- Done by Manish 
+- Done by Manish
+
+```
+15) Leetcode problem 665 :: Non-decreasing Array
+    https://leetcode.com/problems/non-decreasing-array/
+for (17-12-23)
+```
