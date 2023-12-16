@@ -136,8 +136,10 @@ array starts
 - Done by Abhay (Pehle Leet Code fir Industrial File 💪)
 - Done by Manish
 
+13th skipped due to harsh weather conditions!!
+
 ```
-13) Leetcode problem 34 :: Find First and Last Position of Element in Sorted Array
+14) Leetcode problem 34 :: Find First and Last Position of Element in Sorted Array
     https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ```
 Done by :: 
