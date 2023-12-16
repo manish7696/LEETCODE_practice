@@ -133,4 +133,11 @@ array starts
 12) Leetcode problem 666. Plus One
     https://leetcode.com/problems/plus-one/
 ```
-Done by Abhay (Pehle Leet Code fir Industrial File 💪)
+- Done by Abhay (Pehle Leet Code fir Industrial File 💪)
+- Done by Manish
+
+```
+13) Leetcode problem 34 :: Find First and Last Position of Element in Sorted Array
+    https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+```
+Done by :: 
