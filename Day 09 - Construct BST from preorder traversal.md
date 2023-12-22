@@ -23,4 +23,16 @@
      then left tree is whole preorder
      and right tree wiil be from empty list [ ]
 
+
+## Rohit's approach
+
+- Used an upper bound(int_max)
+- start traversing the vector from i=0
+- made a function named buildTree(vector, i, bound) wit return value as a tree
+- inside the function check if i is equal to the size of vector(vector is traversed completely) or vector[i] > bound if true return null
+- make a new pointer (say root) for the tree
+- for the left, call the buildTree function with bound as the root value
+- for the right, call the buildTree function with bound as bound
+- after that return root
+
   
