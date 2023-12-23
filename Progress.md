@@ -150,3 +150,12 @@ array starts
     https://leetcode.com/problems/non-decreasing-array/
 for (17-12-23)
 ```
+
+–----------------------------------------
+Hashmaps
+-----------------------------------------
+
+```
+16) Leetcode problem:: 13. Roman to Integer
+    https://leetcode.com/problems/roman-to-integer/
+```
