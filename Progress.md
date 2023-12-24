@@ -170,7 +170,8 @@ Hashmaps
     https://leetcode.com/problems/find-the-town-judge/
 ```
 - Done by Rohit
-
+- Done by Manish
+  
 ```
 18) Leetcode problem 442 :: Find all Duplicates in an array
     https://leetcode.com/problems/find-all-duplicates-in-an-array/
