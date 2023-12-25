@@ -176,4 +176,5 @@ Hashmaps
 18) Leetcode problem 442 :: Find all Duplicates in an array
     https://leetcode.com/problems/find-all-duplicates-in-an-array/
 ```
-- Done by Rohit 
+- Done by Rohit
+- Done by manish(easy tha yar)
