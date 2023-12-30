@@ -192,3 +192,13 @@ Hashmaps
     https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
 ```
 - Done by Rohit (Didn't used hasmap)
+
+
+–----------------------------------------
+Two Pointers
+-----------------------------------------
+
+```
+21) Leetcode problem 125 :: Valid Palindrome
+    https://leetcode.com/problems/valid-palindrome/
+```
