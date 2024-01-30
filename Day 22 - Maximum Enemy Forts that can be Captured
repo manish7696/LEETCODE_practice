@@ -1,0 +1,9 @@
+## Abhay's Approach
+
+- Initialize variables win, army, and enemy to keep track of the maximum distance, the number of forts under your command, and the number of enemy forts, respectively.
+- Iterate through each position in the array using a for loop.
+- Check if the fort at the current position is under your command (forts[i] == 1). If so, increment the army count and set curr to the current position.
+- For each fort to the left of the current position, calculate the distance between the current fort and the nearest fort on the left. Update win if this distance is greater, and break the loop once the first fort under your command is encountered or an empty position is found.
+- Repeat a similar process for forts to the right of the current position.
+- Check the values of army and enemy. If there are no forts under your command (army == 0) or no enemy forts (enemy == 0), return 0.
+- If there are forts under your command and enemy forts, return win - 1, representing the maximum number of enemy forts that can be captured during army movement.
