@@ -220,7 +220,7 @@ Two Pointers
 23) Leetcode problem 28 :: Find the Index of the First Occurrence in a String
     https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 ```
-- Done by
+- Done by Manish
 
 ```
 24) Leetcode problem 2905 :: Find Indices With Index and Value Difference II
