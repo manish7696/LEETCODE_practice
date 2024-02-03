@@ -221,6 +221,7 @@ Two Pointers
     https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 ```
 - Done by Manish
+- Done By Abhay
 
 ```
 24) Leetcode problem 2905 :: Find Indices With Index and Value Difference II
