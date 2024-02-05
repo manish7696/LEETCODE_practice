@@ -235,3 +235,13 @@ Two Pointers
 ```
 
 - Done by Abhay
+
+
+–----------------------------------------
+STACK
+-----------------------------------------
+
+```
+26) Leetcode problem 20 :: Valid Parentheses
+    https://leetcode.com/problems/valid-parentheses/description/
+```
