@@ -247,3 +247,10 @@ STACK
 ```
 
 - Done by Abhay
+
+```
+27) Leetcode problem 70 :: Climbing Stairs
+    https://leetcode.com/problems/climbing-stairs/
+```
+
+- Done by Abhay (Maths zindabaad + Chat GPT borla maine dp use ki???? )
