@@ -204,8 +204,8 @@ Two Pointers
     No Fine Question
 ```
 
-# Bali joined
-# JSK joined
+### Bali joined
+### JSK joined
 
 
 ```
