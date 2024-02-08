@@ -259,3 +259,5 @@ STACK
 28) Leetcode problem 71 :: Simplify Path
     https://leetcode.com/problems/simplify-path/
 ```
+
+- Done by Abhay (ez if else)
