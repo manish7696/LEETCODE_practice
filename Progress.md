@@ -254,3 +254,8 @@ STACK
 ```
 
 - Done by Abhay (Maths zindabaad + Chat GPT borla maine dp use ki???? )
+
+```
+28) Leetcode problem 71 :: Simplify Path
+    https://leetcode.com/problems/simplify-path/
+```
