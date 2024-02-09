@@ -164,6 +164,7 @@ Hashmaps
 - Done by Manish
 - Done by Abhay
 - Done by Rohit
+- Done by Savi
 
 ```
 17) Leetcode problem 997 :: Find the Town Judge
@@ -180,6 +181,7 @@ Hashmaps
 - Done by Rohit
 - Done by manish(easy tha yar)
 - Done by Abhay
+- Done by Savi
 
 ```
 19) Leetcode problem 2347 :: Best Poker Hand
