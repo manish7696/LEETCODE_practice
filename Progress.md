@@ -263,3 +263,9 @@ STACK
 ```
 
 - Done by Abhay (ez if else)
+
+```
+29) Leetcode Problem 739 :: Daily Tempratures
+
+https://leetcode.com/problems/daily-temperatures/
+```
