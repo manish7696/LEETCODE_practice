@@ -266,6 +266,5 @@ STACK
 
 ```
 29) Leetcode Problem 739 :: Daily Tempratures
-
-https://leetcode.com/problems/daily-temperatures/
+    https://leetcode.com/problems/daily-temperatures/
 ```
