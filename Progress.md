@@ -247,31 +247,38 @@ STACK
 26) Leetcode problem 20 :: Valid Parentheses
     https://leetcode.com/problems/valid-parentheses/description/
 ```
-
 - Done by Abhay
+- Done by Rohit
 
 ```
 27) Leetcode problem 70 :: Climbing Stairs
     https://leetcode.com/problems/climbing-stairs/
 ```
-
 - Done by Abhay (Maths zindabaad + Chat GPT borla maine dp use ki???? )
+- Done by Rohit
 
 ```
 28) Leetcode problem 71 :: Simplify Path
     https://leetcode.com/problems/simplify-path/
 ```
-
 - Done by Abhay (ez if else)
+- Done by Rohit
 
 ```
 29) Leetcode Problem 739 :: Daily Tempratures
     https://leetcode.com/problems/daily-temperatures/
 ```
-
 - Done by
 
 ```
 30) Leetcode Problem 150 :: Evaluate Reverse Polish Notation
     https://leetcode.com/problems/evaluate-reverse-polish-notation/
 ```
+- Done by
+
+```
+31) Leetcode Problem 1598 :: Crawler Log Folder
+    https://leetcode.com/problems/crawler-log-folder/description/
+```
+- Done by
+
