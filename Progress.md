@@ -268,3 +268,10 @@ STACK
 29) Leetcode Problem 739 :: Daily Tempratures
     https://leetcode.com/problems/daily-temperatures/
 ```
+
+- Done by
+
+```
+30) Leetcode Problem 150 :: Evaluate Reverse Polish Notation
+    https://leetcode.com/problems/evaluate-reverse-polish-notation/
+```
