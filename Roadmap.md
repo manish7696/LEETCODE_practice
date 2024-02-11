@@ -3,9 +3,11 @@
 ## completed:
 - Linked list
 - binary tree
-
-## next structures:
 - arrays
-- matrix
 - hashmap
 - two pointer
+
+## next structures:
+- queue
+- matrix
+
