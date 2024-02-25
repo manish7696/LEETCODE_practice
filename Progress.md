@@ -216,6 +216,7 @@ Two Pointers
 ```
 
 - Done by Abhay
+- Done by Bali
 
 
 ```
@@ -224,7 +225,8 @@ Two Pointers
 ```
 - Done by Manish
 - Done By Abhay
-
+- Done by Bali
+  
 ```
 24) Leetcode problem 2905 :: Find Indices With Index and Value Difference II
     https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description/
