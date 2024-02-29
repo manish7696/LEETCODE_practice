@@ -232,6 +232,8 @@ Two Pointers
     https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description/
 ```
 - Done by Rohit
+- attmpted but stuck
+  
 
 ```
 25) Leetcode problem 969 :: Pancake Sorting
