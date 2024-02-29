@@ -232,7 +232,7 @@ Two Pointers
     https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description/
 ```
 - Done by Rohit
-- attmpted but stuck
+- attmpted by Bali but stuck
   
 
 ```
@@ -241,6 +241,7 @@ Two Pointers
 ```
 
 - Done by Abhay
+- Done by Bali
 
 
 –----------------------------------------
