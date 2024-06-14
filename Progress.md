@@ -298,3 +298,9 @@ STACK
 33) Leetcode Problem 
     https://leetcode.com/problems/number-of-recent-calls/description/
 ```
+- Done by Manish
+
+```
+34) LeetCode Problem
+    https://leetcode.com/problems/first-unique-character-in-a-string/description/
+```
