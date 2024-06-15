@@ -305,3 +305,9 @@ STACK
     https://leetcode.com/problems/first-unique-character-in-a-string/description/
 ```
 - Done by manish
+
+
+```
+35) Leetcode Problem
+    https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/
+```
