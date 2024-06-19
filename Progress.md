@@ -295,20 +295,25 @@ STACK
 ## Queue 
 
 ```
-33) Leetcode Problem 
+33) Leetcode Problem(Easy) 
     https://leetcode.com/problems/number-of-recent-calls/description/
 ```
 - Done by Manish
 
 ```
-34) LeetCode Problem
+34) LeetCode Problem(Easy)
     https://leetcode.com/problems/first-unique-character-in-a-string/description/
 ```
 - Done by manish
 
 
 ```
-35) Leetcode Problem
+35) Leetcode Problem(Easy)
     https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/
 ```
 - Done by Manish
+
+```
+36) Leetcode Problem(Medium)
+    https://leetcode.com/problems/dota2-senate/description/
+```
