@@ -30,3 +30,24 @@ class Solution(object):
 
 # first try - make dictionary to count occurence of each character and then pop elementwise from queue(string) to find first letter with 1 occurence
 # second try(optimized) - only put those character of string in the queue which have only one occurence (while making the dictionary!!)
+---
+# Abhay's approach
+similar to Manish, used while loop instead
+
+        counts = {}
+        queue = deque()
+
+        for idx, i in enumerate(s):
+            if i in counts:
+                counts[i] += 1
+            else:
+                counts[i] = 1
+                queue.append((i, idx))
+            
+        while queue and counts[queue[0][0]] > 1:
+            queue.popleft()
+
+        if queue:
+            return queue[0][1]
+        else:
+            return -1
