@@ -317,7 +317,7 @@ STACK
 36) Leetcode Problem(Medium)
     https://leetcode.com/problems/dota2-senate/description/
 ```
-- Little bit left...
+- Done by Manish(aukha tha)
 
 ```
 37) Leetcode Problem (medium)
