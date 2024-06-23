@@ -299,12 +299,14 @@ STACK
     https://leetcode.com/problems/number-of-recent-calls/description/
 ```
 - Done by Manish
+- Done by Abhay
 
 ```
 34) LeetCode Problem(Easy)
     https://leetcode.com/problems/first-unique-character-in-a-string/description/
 ```
 - Done by manish
+- Done by Abhay
 
 
 ```
