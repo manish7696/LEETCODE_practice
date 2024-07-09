@@ -340,4 +340,7 @@ Revision
 ```
 R1) Leetcode Problem (Easy)
     https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+   - brute force
+   - optimal
 ```
