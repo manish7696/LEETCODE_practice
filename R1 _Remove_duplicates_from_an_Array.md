@@ -86,24 +86,25 @@
 
   - M3 chat gpt
   ```
-      class Solution(object):
-        def removeDuplicates(self, nums):
-            """
-            :type nums: List[int]
-            :rtype: int
-            """
-            distinct = []
-            for i in nums:
-                # print(i, distinct)
-                if i not in distinct:
-                    distinct.append(i)
-                    print(distinct)
-    
-            for i in range(len(nums)):
-                if i < len(distinct):
-                    nums[i] = distinct[i]
-                else:
-                    nums[i] = '_'
-            return len(distinct)
+  class Solution(object):
+      def removeDuplicates(self, nums):
+          """
+          :type nums: List[int]
+          :rtype: int
+          """
+          
+          if not nums:
+              return 0
+  
+          # Initialize the counter for the unique element's position
+          unique_index = 0
+  
+          # Iterate through the list starting from the second element
+          for i in range(1, len(nums)):
+              if nums[i] != nums[unique_index]:
+                  unique_index += 1
+                  nums[unique_index] = nums[i]
+  
+          return unique_index + 1
     ```
     
