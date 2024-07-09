@@ -343,4 +343,5 @@ R1) Leetcode Problem (Easy)
 
    - brute force
    - optimal
+   solution - https://dev.to/masum-dev/how-to-remove-duplicates-from-a-sorted-array-5fn9
 ```
