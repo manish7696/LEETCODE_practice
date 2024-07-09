@@ -83,9 +83,8 @@
         # print(count_distinct, nums)
         return count_distinct
     ```
-  - M2 chat gpt
-  ```
-  - M1 Brute force
+
+  - M3 chat gpt
   ```
       class Solution(object):
         def removeDuplicates(self, nums):
