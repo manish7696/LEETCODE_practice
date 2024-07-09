@@ -327,3 +327,17 @@ STACK
     https://leetcode.com/problems/design-circular-queue/description/
 ```
 - Done by Manish
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Revision 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+```
+R1) Leetcode Problem (Easy)
+    https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+```
