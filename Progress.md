@@ -345,3 +345,12 @@ R1) Leetcode Problem (Easy)
    - optimal
    solution - https://dev.to/masum-dev/how-to-remove-duplicates-from-a-sorted-array-5fn9
 ```
+
+- Done by Manish
+
+```
+R2) Leetcode problem(easy)
+    https://leetcode.com/problems/remove-element/description/
+
+    solution - https://www.youtube.com/watch?v=Pcd1ii9P9ZI
+```
