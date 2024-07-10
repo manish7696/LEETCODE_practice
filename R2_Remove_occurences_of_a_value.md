@@ -1,0 +1,26 @@
+- Manish
+  - M1) explanation:
+     example [1, 2, 3, 4, 5, 2, 2, 2]
+    we want to remove all 2s and make it [1, 3, 4, 5, _, _, _, _]
+    - At first it looks like we may need to remove all 2s and then shift all elements to left but it is too slow.
+    - The checker will look only first 4 eleements (1, 3, 4, 5), so we just need to put them at beginning and at same time ignoring 2s in the array
+    - This way we wont need to shift the elements
+   
+  ```
+  class Solution(object):
+    def removeElement(self, nums, val):
+        """
+        :type nums: List[int]
+        :type val: int
+        :rtype: int
+        """
+        current = 0
+   
+        for i in nums:
+            if i != val:
+                nums[current] = i
+                current += 1
+           
+            
+        return current
+  ```
