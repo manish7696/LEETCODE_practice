@@ -1,3 +1,0 @@
-# RULE BOOK
-
-- Consistency
