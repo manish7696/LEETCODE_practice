@@ -1,6 +1,8 @@
 # manish
 - m1) count the number of occurence of each value then return the number occuring only one
-      problem : uses o(n) space
+
+
+   problem : uses O(n) space
   ```
   class Solution(object):
     def singleNumber(self, nums):
