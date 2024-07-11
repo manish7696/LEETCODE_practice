@@ -20,3 +20,4 @@ this will not check null values and hence is the wrong answer, to compare null v
 WHERE referee_id != 2 or referee_id IS NULL;
 ```
  
+q5) use length() function to find length of string 
