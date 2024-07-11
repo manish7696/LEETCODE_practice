@@ -355,3 +355,12 @@ R2) Leetcode problem(easy)
     solution - https://www.youtube.com/watch?v=Pcd1ii9P9ZI
 ```
 - Done by Manish
+  
+
+```
+R3) Leetcode problem(easy)
+    https://leetcode.com/problems/single-number/
+
+    solution - https://medium.com/@justcode/leetcode-136-single-number-4a5e02783e99
+```
+
