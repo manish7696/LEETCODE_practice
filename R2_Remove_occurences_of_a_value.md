@@ -24,3 +24,18 @@
             
         return current
   ```
+
+  - Smeeksha
+      Count the number of times val exists in the nums.
+      Then use for loop to remove all the occurences of that element. (if we don't use for loop it will only remove the             element once from nums)
+      Finally the nums obtained will have no occurence of val. Now return the length of nums.
+
+    class Solution:
+      def removeElement(self, nums: List[int], val: int) -> int:
+    
+          repetition= nums.count(val)
+          for i in range(repetition):
+              nums.remove(val)
+          return len(nums)
+      
+  
