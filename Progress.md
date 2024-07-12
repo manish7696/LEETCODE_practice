@@ -364,3 +364,11 @@ R3) Leetcode problem(easy)
     solution - https://medium.com/@justcode/leetcode-136-single-number-4a5e02783e99
 ```
 - Done by manish
+
+### sorting
+```
+R4) Leetcode Problem (easy)
+    https://leetcode.com/problems/merge-sorted-array/description/
+
+    solution - https://medium.com/@sheefanaaz6417/88-merge-sorted-array-leetcode-step-by-step-approach-c57101afbf96
+```
