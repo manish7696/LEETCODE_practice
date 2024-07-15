@@ -37,6 +37,7 @@
 - Done by Rohit
 - Done by Abhay :]
 - Done by Ekansh
+- Done by Bali
 - Nahh never mind TLE for me today gn :(
 - Rs 5 fine for manish
 - total = 15
@@ -49,6 +50,7 @@
 - Done by Abhay (Ezzz)
 - Done by Manish (idea easy but not easy to implement, took a lot of print statements :| )
 - Done by Rohit
+- Done By Bali
 - Done by Ekansh (1:42 AM)
 - total = 15
 
