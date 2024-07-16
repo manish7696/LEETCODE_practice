@@ -377,7 +377,6 @@ R4) Leetcode Problem (easy)
 - Done by : Manish
 ```
 R5) HackerRank Problem(Easy)
-    https://www.hackerrank.com/challenges/the-hurdle-race/problem
-
-    solution :: https://github.com/kilian-hu/hackerrank-solutions/blob/master/challenges/the-hurdle-race.py
+    https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
+    
 ```
