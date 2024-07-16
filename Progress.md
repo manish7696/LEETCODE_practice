@@ -374,3 +374,10 @@ R4) Leetcode Problem (easy)
 
     solution - https://medium.com/@sheefanaaz6417/88-merge-sorted-array-leetcode-step-by-step-approach-c57101afbf96
 ```
+
+```
+R5) HackerRank Problem(Easy)
+    https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
+    solution :: https://github.com/kilian-hu/hackerrank-solutions/blob/master/challenges/the-hurdle-race.py
+```
