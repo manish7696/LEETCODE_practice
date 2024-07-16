@@ -11,3 +11,14 @@
     return doses
 
     ```
+
+- manish
+```
+def hurdleRace(k, height):
+    diff = 0
+    for i in height:
+        if diff < i -:
+            diff = i - k
+        
+    return diff
+```
