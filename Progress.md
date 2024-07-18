@@ -376,7 +376,9 @@ R4) Leetcode Problem (easy)
 ```
 - Done by : Manish
 ```
-R5) HackerRank Problem(Easy)
+R5) a) HackerRank Problem(Easy)
     https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
-    
+
+    b) HackerRank Problem(easy)
+    https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true
 ```
