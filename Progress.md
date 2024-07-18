@@ -379,6 +379,6 @@ R4) Leetcode Problem (easy)
 R5) a) HackerRank Problem(Easy)
     https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
 
-    b) HackerRank Problem(easy)
+    b) HackerRank Problem(Easy)
     https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true
 ```
