@@ -382,3 +382,9 @@ R5) a) HackerRank Problem(Easy)
     b) HackerRank Problem(Easy)
     https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true
 ```
+Done by :: 
+```
+R6) Leetcode Problem (Easy) - Valid Anagram
+    https://leetcode.com/problems/valid-anagram/description/
+```
+Done by :: 
