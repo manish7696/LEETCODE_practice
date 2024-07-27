@@ -398,6 +398,9 @@ R7) Leetcode Problem (Easy) - convert-binary-number-in-a-linked-list-to-integer
 ```
 Hints :  - 1) try to print the linked list first using while loop
          - 2) store it in some array or string then convert it to decimal 
+
+
+         
 Dony by : MANISHH
 
 ```
