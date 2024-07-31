@@ -407,3 +407,9 @@ Dony by : MANISHH
 R8) Hackerrank Problem (Easy) - Print linked list in reverse
     https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true
 ```
+Done by - Manish
+
+```
+R9) Hackerrank problem (Easy) - Insert a node at any position in a linked list
+    https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true
+```
