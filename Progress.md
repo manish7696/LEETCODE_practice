@@ -413,3 +413,8 @@ Done by - Manish
 R9) Hackerrank problem (Easy) - Insert a node at any position in a linked list
     https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true
 ```
+
+```
+R10) Hackerrank Problem (Easy) - To Reverse a linked a linked list
+     https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true
+```
