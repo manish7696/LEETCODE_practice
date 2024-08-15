@@ -256,6 +256,7 @@ STACK
 ```
 - Done by Abhay
 - Done by Rohit
+- Done by Bali
 
 ```
 27) Leetcode problem 70 :: Climbing Stairs
