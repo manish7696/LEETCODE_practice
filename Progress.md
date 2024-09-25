@@ -419,3 +419,9 @@ R9) Hackerrank problem (Easy) - Insert a node at any position in a linked list
 R10) Hackerrank Problem (Easy) - To Reverse a linked a linked list
      https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true
 ```
+
+```
+R11) Leetcode Problem (Easy) - Detect cycle in a linked list using hashmap
+    https://leetcode.com/problems/linked-list-cycle/
+```
+- Done by Manish
