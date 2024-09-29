@@ -1,4 +1,4 @@
-class Solution(object):
+```class Solution(object):
     def hasCycle(self, head):
         """
         :type head: ListNode
@@ -25,7 +25,7 @@ class Solution(object):
         #     temp = temp.next
 
         # return False
-
+```
   - points to remember:
   - 1) using a hashmap to if a value comes again will give wrong answer because there can be two nodes with same value but different pointer
     2) rather check for (temp.val, temp.next) in the hashmap or use a set()
