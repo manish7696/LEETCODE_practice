@@ -425,3 +425,9 @@ R11) Leetcode Problem (Easy) - Detect cycle in a linked list using hashmap
     https://leetcode.com/problems/linked-list-cycle/
 ```
 - Done by Manish
+
+```
+R12) Leetcode Problem (medium) - Linked list cycle II
+    https://leetcode.com/problems/linked-list-cycle-ii/
+```
+- Done by Manish
