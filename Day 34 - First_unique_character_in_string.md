@@ -1,4 +1,4 @@
-from collections import deque
+```from collections import deque
 class Solution(object):
     def firstUniqChar(self, s):
         """
@@ -27,7 +27,7 @@ class Solution(object):
             
         
         return -1
-
+```
 # first try - make dictionary to count occurence of each character and then pop elementwise from queue(string) to find first letter with 1 occurence
 # second try(optimized) - only put those character of string in the queue which have only one occurence (while making the dictionary!!)
 ---
