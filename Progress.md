@@ -431,3 +431,9 @@ R12) Leetcode Problem (medium) - Linked list cycle II
     https://leetcode.com/problems/linked-list-cycle-ii/
 ```
 - Done by Manish
+
+```
+R13) Leetcode problem (medium) - Odd Even Linked List
+    https://leetcode.com/problems/odd-even-linked-list/description/
+```
+- Done by Manish
