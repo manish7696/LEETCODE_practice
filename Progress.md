@@ -437,3 +437,9 @@ R13) Leetcode problem (medium) - Odd Even Linked List
     https://leetcode.com/problems/odd-even-linked-list/description/
 ```
 - Done by Manish
+
+```
+R14) Sorting a linked list using merge sort
+    https://leetcode.com/problems/sort-list/solutions/5550520/sort-using-merge-sort/
+```
+- Done by Manish
