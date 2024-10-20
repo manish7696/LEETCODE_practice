@@ -1,6 +1,6 @@
 # To merge sort on a linked list following steps are required:
 1) splitting the linked list - recursively divide the list into two halves
-2) split until single node sized list are found
+2) split until single node sized list are found(single node lists are sorted)
 3) merge the two sorted lists
 
 - In this code we have two recursive calls, so we pre, in, post recursive codes/area in the recursion tree
