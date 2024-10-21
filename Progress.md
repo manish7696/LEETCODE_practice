@@ -443,3 +443,8 @@ R14) Sorting a linked list using merge sort
     https://leetcode.com/problems/sort-list/solutions/5550520/sort-using-merge-sort/
 ```
 - Done by Manish
+
+```
+R15) Binary search in array
+```
+- Done by Manish
