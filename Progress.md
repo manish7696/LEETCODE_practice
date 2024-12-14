@@ -458,3 +458,9 @@ R16) Given a sorted array of distinct integers and a target value, return the in
 R16) Floor in a Sorted Array(GFG)
 ```
 - Done by Manish
+
+```
+R17) Remove Outermost parenthesis(Leetcode) 
+https://leetcode.com/problems/remove-outermost-parentheses/
+```
+- Done by Manish
